@@ -9,11 +9,11 @@ This repository contains the board design for Manual Bot Controller Shield for A
 
 ### Board File -
 
-![Image1](./brd.png)
+![Image1](./brd.PNG)
 
 ### Schematic File -
 
-![Image2](./sch.png)
+![Image2](./sch.PNG)
 
 ## Files in the Repository
 The files in the repository are :
